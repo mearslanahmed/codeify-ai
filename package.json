@@ -1,6 +1,7 @@
 {
   "name": "codeify",
   "private": true,
+  "homepage": "https://github.com/mearslanahmed/codeify-ai",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
