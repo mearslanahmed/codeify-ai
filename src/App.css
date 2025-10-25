@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #11001C;
+  color: #EDEDED;
+}
+
+.css-18cezhq-control {
+  width: 30% !important;
+}
+
+.btnNormal {
+  padding: 10px;
+  color: #E6F1FF;
+  border: 0;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.css-b62m3t-container {
+  width: 80%;
+}
+
+.css-6t86uw-control{
+  width: 100%;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+p > strong {
+  color: gray;
+}
+h3 > strong {
+  font-size: 20px;
+  color: #EDEDED;
+}
+
+ol > li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+pre {
+  background-color: #1E1E1E;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+/* Custom Scrollbar */
+/* Scrollbar width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track (background behind thumb) */
+::-webkit-scrollbar-track {
+  background: #1A0128; /* deep background shade */
+  border-radius: 10px;
+}
+
+/* Handle (scroll thumb) */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #4F0147, #3A015C);
+  border-radius: 10px;
+  border: 2px solid #1A0128; /* gives thumb a clean edge against track */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #640164, #4F0147);
+}
+  
