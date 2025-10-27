@@ -9,7 +9,7 @@ This project demonstrates frontend polish, editor integration, and LLM-powered w
 
 ## Live demo
 
-**(Coming soon)**
+🚀 [Click here to visit Codeify](https://codeify-ai.vercel.app/)
 
 ---
 
